@@ -1,3 +1,5 @@
+Please note: This repository has been extracted from a group project on gitlab from Summer 2021. This version serves only as part of my public portfolio.
+
 Our full report for this project can be found on Google Docs with the following link:
 https://docs.google.com/document/d/1plzH1enzzQ2AqbZkKaiNjUTG5GhDtTGHBpWN-yDea74/edit?usp=sharing
 
