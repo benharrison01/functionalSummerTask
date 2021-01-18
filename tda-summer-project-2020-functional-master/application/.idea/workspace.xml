@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a84cb67d-5492-436a-a81a-49f42afe4ab7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/LTS.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/LTS.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/NFA.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/NFA.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Transition.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Transition.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ltsState.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ltsState.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ltsTransition.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ltsTransition.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/myGUI.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/myGUI.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/nfaTransition.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/nfaTransition.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gJteOdnywicyQNTxCHsdQNTFHv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="myGUI" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="myGUI" />
+      <module name="ltl-model-checker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.myGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ltl-model-checker" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="application [file:/C:/Ben/Uni/tda-summer-project-2020-functional/application/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ltl-model-checker-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3192203838160" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="467907593" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="87871327" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../FunctionalSummerTask/appWithTransitions/application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FunctionalSummerTask/application with product - isaac/tda-summer-project-2020-functional-isaac/application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FunctionalSummerTask/isaacs/application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FunctionalSummerTask/tda-summer-project-2020-functional-isaac-application/tda-summer-project-2020-functional-isaac-application/application" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a84cb67d-5492-436a-a81a-49f42afe4ab7" name="Default Changelist" comment="" />
+      <created>1597844618239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597844618239</updated>
+      <workItem from="1597844627066" duration="3875000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1597959784782">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1597959784782" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1597971732439">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597971732439" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1597971732438">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597971732438" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1597971732438">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597971732438" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1597971732439">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597971732439" />
+    <state x="121" y="56" key="MergeDialog" timestamp="1597931203650">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="56" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1597931203650" />
+    <state x="354" y="57" key="MultipleFileMergeDialog" timestamp="1597931205989">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="354" y="57" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1597931205989" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1597955627391">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1597955627391" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1597957617456">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1597957617456" />
+  </component>
+</project>

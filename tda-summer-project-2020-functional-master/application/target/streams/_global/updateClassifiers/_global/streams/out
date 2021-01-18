@@ -1,0 +1,4 @@
+[warn] scala-library-2.13.3-sources.jar no longer exists at C:\Users\isaac\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.3\scala-library-2.13.3-sources.jar
+[debug] "not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Ben/Uni/tda-summer-project-2020-functional/application/"), "application")...
+[debug] Done updating ProjectRef(uri("file:/C:/Ben/Uni/tda-summer-project-2020-functional/application/"), "application")
